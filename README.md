@@ -2,7 +2,7 @@
 
 You have reached Jerad Steinmann's *readme*! I'm currently a Systems Engineer and I'm working to add cloud skills to my toolbox. See below for some more quick facts!
 
-- 🔭 I’m currently working on improving my homelab.
+- 🔭 I’m currently working on making my homelab "seaworthy".
 - 🌱 I’m currently learning Azure-focused cloud skills.
 - 🤔 I’m looking for help with progressing my skillset to advance my career
 - 💬 Ask me about working at a hospital 🎩🤠🎩
