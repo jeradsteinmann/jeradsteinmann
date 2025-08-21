@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 👋
 
 You have reached Jerad Steinmann's *readme*! I'm currently a Systems Engineer and I'm working to add cloud skills to my toolbox. See below for some more quick facts!
 
